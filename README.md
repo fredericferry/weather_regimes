@@ -11,7 +11,8 @@ https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels
 https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form
 
 NCEP data can be downloaded here :
-
+ftp2.psl.noaa.gov/Projects/Datasets/ncep.reanalysis.dailyavgs/pressure
+ftp2.psl.noaa.gov/Projects/Datasets/ncep.reanalysis.dailyavgs/surface
 
 If you can't find the data ask me and I'll make it available for you.
 
