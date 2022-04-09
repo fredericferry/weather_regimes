@@ -14,6 +14,8 @@ NCEP data can be downloaded here :
 ftp2.psl.noaa.gov/Projects/Datasets/ncep.reanalysis.dailyavgs/pressure
 ftp2.psl.noaa.gov/Projects/Datasets/ncep.reanalysis.dailyavgs/surface
 
+Climate indices can be found here : https://psl.noaa.gov/data/climateindices/list/
+
 If you can't find the data ask me and I'll make it available for you.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
