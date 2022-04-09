@@ -1,5 +1,13 @@
 # weather_regimes
-Compute weather regimes with EOFs and Clustering techniques
+Compute weather regimes with EOFs and Clustering techniques.
+
+Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
+
+Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
+
+The gridded data needed to run the notebook are NOT provided. if you can't find it ask me and I'll make it available for you.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ![zg500_natl_winter_eofs](https://user-images.githubusercontent.com/76565450/162587432-3571e6ca-4e9b-42c0-b8e9-116b400f3aad.png)
