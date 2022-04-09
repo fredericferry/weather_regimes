@@ -5,7 +5,15 @@ Note 1 : This code was developed for educationnal purposes, and for French stude
 
 Note 2 : If you have any comment/suggestion, if you find this code useful --> please send me an email : mailto:frederic.ferry@meteo.fr
 
-The gridded data needed to run the notebook are NOT provided. if you can't find it ask me and I'll make it available for you.
+The gridded data needed to run the notebook are NOT provided.
+ERA5 data can be downloaded here :
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-single-levels?tab=form
+https://cds.climate.copernicus.eu/cdsapp#!/dataset/reanalysis-era5-pressure-levels?tab=form
+
+NCEP data can be downloaded here :
+
+
+If you can't find the data ask me and I'll make it available for you.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
