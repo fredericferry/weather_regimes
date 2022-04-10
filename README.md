@@ -1,5 +1,5 @@
 # weather_regimes
-Compute weather regimes with EOFs and Clustering techniques.
+Study wintertime and summertime weather regimes of the North Atlantic and North Pacific (Z500 and MSLP) with Empirical Orthogonal Functions (EOFs) and Clustering techniques.
 
 Note 1 : This code was developed for educationnal purposes, and for French students. So the comments in the notebook are in French but the graphics and legends are in English.
 
